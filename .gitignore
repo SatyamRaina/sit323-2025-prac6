@@ -1,0 +1,5 @@
+node_modules/
+*.log
+*.tar.gz
+google-cloud-sdk/
+docker-compose.yml
