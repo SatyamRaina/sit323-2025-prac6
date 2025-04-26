@@ -1,0 +1,4 @@
+{"level":"error","message":"n1 is incorrectly defined","service":"calculator-microservice"}
+{"level":"error","message":"n1 is incorrectly defined","service":"calculator-microservice"}
+{"level":"error","message":"n1 is incorrectly defined","service":"calculator-microservice"}
+{"level":"info","message":"Operation add with n1=5, n2=5, result=10","service":"calculator-microservice"}
